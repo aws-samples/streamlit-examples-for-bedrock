@@ -1,0 +1,9 @@
+boto3==1.33.3
+duckduckgo_search==4.2
+langchain-community==0.0.13
+langchain-core==0.1.12
+langchain==0.1.1
+numpy==1.26.1
+pandas==2.1.2
+python-dotenv==1.0.0
+streamlit==1.31.0
